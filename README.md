@@ -1,0 +1,2 @@
+# face
+在学习怎么用Pycharm写一个基于OpenCV框架的人脸识别项目，借鉴了不少的博客和GitHub
